@@ -1,8 +1,10 @@
 ## bachohyeonho
 Hi, this is hyeonho cho.
 I truly believe that the computer is a magical instruments for the tasks we never expected could be done for centuries.
-I do think it's my profession, and I'm sticking on it.
+I do think it's my profession, and I'm sticking on it. 
 <br />
+## Notion TIL 
+[Please visit my notion til site](https://honeysuckle-sting-c35.notion.site/Today-I-Learned-19f4047c5d6d802c9e5efe8088d8dfb2)
 <br />
 <br />
 ## My values
