@@ -2,7 +2,6 @@
 
 **BE 개발자**
 
-- joho0504@gmail.com  
 - [Blog](https://velog.io/joho54/posts)  
 - [Notion](https://honeysuckle-sting-c35.notion.site/Today-I-Learned-19f4047c5d6d802c9e5efe8088d8dfb2)
 
